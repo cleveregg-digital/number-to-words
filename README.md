@@ -1,6 +1,5 @@
-# Very short description of the package
+# Laravel Facade to convert from numbers to human readable text
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/oliversarfas/number-to-words.svg?style=flat-square)](https://packagist.org/packages/oliversarfas/number-to-words)
 [![Build Status](https://img.shields.io/travis/oliversarfas/number-to-words/master.svg?style=flat-square)](https://travis-ci.org/oliversarfas/number-to-words)
 [![Quality Score](https://img.shields.io/scrutinizer/g/oliversarfas/number-to-words.svg?style=flat-square)](https://scrutinizer-ci.com/g/oliversarfas/number-to-words)
 [![Total Downloads](https://img.shields.io/packagist/dt/oliversarfas/number-to-words.svg?style=flat-square)](https://packagist.org/packages/oliversarfas/number-to-words)
