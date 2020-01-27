@@ -19,4 +19,9 @@ class NumberToWords
 
         throw new \Exception("Minimum of 2 parameters required to convert numbers to words.");
     }
+
+    public function __call($name, $arguments)
+    {
+        return $this->__callStatic($name, $arguments);
+    }
 }
