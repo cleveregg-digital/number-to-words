@@ -1,11 +1,11 @@
 <?php
 
-namespace Oliversarfas\NumberToWords;
+namespace CleverEggDigital\NumberToWords;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Oliversarfas\NumberToWords\Skeleton\SkeletonClass
+ * @see \CleverEggDigital\NumberToWords\Skeleton\SkeletonClass
  */
 class NumberToWordsFacade extends Facade
 {

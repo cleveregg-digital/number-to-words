@@ -1,10 +1,10 @@
 <?php
 
-namespace Oliversarfas\NumberToWords\Tests;
+namespace CleverEggDigital\NumberToWords\Tests;
 
-use Oliversarfas\NumberToWords\NumberToWords;
+use CleverEggDigital\NumberToWords\NumberToWords;
 use Orchestra\Testbench\TestCase;
-use Oliversarfas\NumberToWords\NumberToWordsServiceProvider;
+use CleverEggDigital\NumberToWords\NumberToWordsServiceProvider;
 
 class ExampleTest extends TestCase
 {

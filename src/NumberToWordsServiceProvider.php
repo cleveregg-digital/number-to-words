@@ -1,6 +1,6 @@
 <?php
 
-namespace Oliversarfas\NumberToWords;
+namespace CleverEggDigital\NumberToWords;
 
 use Illuminate\Support\ServiceProvider;
 
