@@ -11,7 +11,7 @@ Laravel Wrapper for [kwn/number-to-words](https://github.com/kwn/number-to-words
 You can install the package via composer:
 
 ```bash
-composer require oliversarfas/number-to-words
+composer require cleveregg-digital/number-to-words
 ```
 
 ## Usage
