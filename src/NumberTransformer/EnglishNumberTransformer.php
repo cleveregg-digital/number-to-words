@@ -2,10 +2,10 @@
 
 namespace CleverEggDigital\NumberToWords\NumberTransformer;
 
-use ClevereggDigital\NumberToWords\Language\English\EnglishDictionary;
-use ClevereggDigital\NumberToWords\Language\English\EnglishExponentGetter;
-use ClevereggDigital\NumberToWords\Language\English\EnglishTripletTransformer;
-use ClevereggDigital\NumberToWords\Service\NumberToTripletsConverter;
+use CleverEggDigital\NumberToWords\Language\English\EnglishDictionary;
+use CleverEggDigital\NumberToWords\Language\English\EnglishExponentGetter;
+use CleverEggDigital\NumberToWords\Language\English\EnglishTripletTransformer;
+use CleverEggDigital\NumberToWords\Service\NumberToTripletsConverter;
 
 class EnglishNumberTransformer implements NumberTransformer
 {

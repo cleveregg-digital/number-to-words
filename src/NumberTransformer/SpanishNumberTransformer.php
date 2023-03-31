@@ -2,7 +2,7 @@
 
 namespace CleverEggDigital\NumberToWords\NumberTransformer;
 
-use ClevereggDigital\NumberToWords\Legacy\Numbers\Words;
+use CleverEggDigital\NumberToWords\Legacy\Numbers\Words;
 
 class SpanishNumberTransformer implements NumberTransformer
 {
