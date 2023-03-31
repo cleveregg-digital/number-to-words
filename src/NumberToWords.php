@@ -6,7 +6,7 @@ class NumberToWords
 {
     public static function __callStatic($name, $arguments)
     {
-        $ntw = new \NumberToWords\NumberToWords();
+        $ntw = new BaseClass();
         // Currency
         if(count($arguments) == 3) {
             return $ntw->getCurrencyTransformer($arguments[1])->$name($arguments[0], $arguments[2]);
@@ -17,7 +17,7 @@ class NumberToWords
             return $ntw->getNumberTransformer($arguments[1])->$name($arguments[0]);
         }
 
-        throw new \Exception("Minimum of 2 parameters required to convert numbers to words.");
+        throw new \InvalidArgumentException("Minimum of 2 parameters required to convert numbers to words.");
     }
 
     public function __call($name, $arguments)

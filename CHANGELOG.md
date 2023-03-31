@@ -9,3 +9,8 @@ All notable changes to `number-to-words` will be documented in this file
 ## 2.0.0 - 2023-03-31
 
 - Updated PHP version to 8.0
+
+## 3.0.0 - 2023-03-31
+
+- Updated PHP version to 8.1
+- Removes old dependency from kvn/number-to-words
