@@ -14,3 +14,7 @@ All notable changes to `number-to-words` will be documented in this file
 
 - Updated PHP version to 8.1
 - Removes old dependency from kvn/number-to-words
+
+## 3.0.1 - 2023-03-31
+
+- Removes orchestra test bench from composer.json
