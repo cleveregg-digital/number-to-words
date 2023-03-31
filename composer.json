@@ -2,10 +2,10 @@
     "name": "cleveregg-digital/number-to-words",
     "description": "Laravel Wrapper for kwn/number-to-words",
     "keywords": [
-        "oliversarfas",
+        "cleveregg-digital",
         "number-to-words"
     ],
-    "homepage": "https://github.com/oliversarfas/number-to-words",
+    "homepage": "https://github.com/cleveregg-digital/number-to-words",
     "license": "MIT",
     "type": "library",
     "authors": [

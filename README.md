@@ -1,10 +1,10 @@
 # Laravel Facade to convert from numbers to human readable text
 
-[![Build Status](https://img.shields.io/travis/oliversarfas/number-to-words/master.svg?style=flat-square)](https://travis-ci.org/oliversarfas/number-to-words)
-[![Quality Score](https://img.shields.io/scrutinizer/g/oliversarfas/number-to-words.svg?style=flat-square)](https://scrutinizer-ci.com/g/oliversarfas/number-to-words)
-[![Total Downloads](https://img.shields.io/packagist/dt/oliversarfas/number-to-words.svg?style=flat-square)](https://packagist.org/packages/oliversarfas/number-to-words)
+[![Build Status](https://img.shields.io/travis/cleveregg-digital/number-to-words/master.svg?style=flat-square)](https://travis-ci.org/cleveregg-digital/number-to-words)
+[![Quality Score](https://img.shields.io/scrutinizer/g/cleveregg-digital/number-to-words.svg?style=flat-square)](https://scrutinizer-ci.com/g/cleveregg-digital/number-to-words)
+[![Total Downloads](https://img.shields.io/packagist/dt/cleveregg-digital/number-to-words.svg?style=flat-square)](https://packagist.org/packages/cleveregg-digital/number-to-words)
 
-Laravel Wrapper for [kwn/number-to-words](https://github.com/kwn/number-to-words)
+PHP 8.x and Laravel Wrapper for [kwn/number-to-words](https://github.com/kwn/number-to-words)
  
 ## Installation
 
